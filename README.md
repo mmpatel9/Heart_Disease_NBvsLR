@@ -43,5 +43,36 @@ A comparison of Naive Bayes and Logistic Regression on predicting whether an ind
 
 • Testing the two chosen models with their best parameters on the testing data and contrasting the results to each other.
 
+Analysis and Critical Evaluation
+
+• Both models have high accuracy in the training phase. The Base model was
+improved by applying regularization techniques , with LR model having higher
+accuracy in the training phase.
+
+• Applying both models to the testing data we see that there was a decrease in
+accuracy, with LR decreasing quite significantly from 92.07 to 80% I and NB
+dropped from 91.71% to 90% in terms of accuracy. This tells us that we
+overfitted the training data, especially for LR and more significantly, NB
+outperformed LR, with higher performance, which most papers agreed with, but
+not the magnitude.
+
+• This tells us that Looking into this further; we can see that ‘Recall’ was
+significantly greater for NB than LR, shows that it to detect people with heart
+disease efficiently, highlighting the fact that logistic regression has been over
+trained.
+
+• ROC curve, figure4, shows that NB has a higher AUC than, LR. Shows that it fits
+dataset better than LR.
+
+• Comparing this to paper[3]; we see that there are indifference in results,[NB-
+90.78%, LR-92.76%], especially for LR which could be since the data used where
+different as well as that the way the data in terms of features were collected was
+also be different.
+
+• Results for NB, where like those results [3], even though the data is different,
+shows, NB performs well with different datasets.
+
+
+
 
 
