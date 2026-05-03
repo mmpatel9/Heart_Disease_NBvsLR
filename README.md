@@ -27,5 +27,21 @@ A comparison of Naive Bayes and Logistic Regression on predicting whether an ind
 
 
 
+## Training and Evaluation Methodology 
+
+• Date set will be split into train (80%) and test set (20%). 
+
+• A baseline model for each model is created, with training Data. Then be binned and feature reduction applied (Train Set). 
+
+• Choses features are "chol","thalach",'oldpeak','sex','cp','restecg','exang','slope',"binAge",'ca','thal','target’. Age was binned to form ‘binAge’. Highly correlated feat removed
+
+• Respective hyperparameters are applied to the models and will be validated by K-Fold validation (10) 
+
+• 10-Fold validation used to estimate the generalisation error, prevents overfitting. 
+
+• Apply optimization to choose the optimum parameter and validated using 10-Fold validation. 
+
+• Testing the two chosen models with their best parameters on the testing data and contrasting the results to each other.
+
 
 
