@@ -43,7 +43,7 @@ A comparison of Naive Bayes and Logistic Regression on predicting whether an ind
 
 • Testing the two chosen models with their best parameters on the testing data and contrasting the results to each other.
 
-Analysis and Critical Evaluation
+## Analysis and Critical Evaluation
 
 • Both models have high accuracy in the training phase. The Base model was
 improved by applying regularization techniques , with LR model having higher
