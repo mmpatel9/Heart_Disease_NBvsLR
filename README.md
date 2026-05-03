@@ -5,7 +5,8 @@ A comparison of Naive Bayes and Logistic Regression on predicting whether an ind
 
 [View Presentation](https://github.com/mmpatel9/Heart_Disease_NBvsLR/blob/main/ML%20Presentation%20P.pdf)
 
-##Description and motivation:
+## Description and motivation
+
 • A heart attack (Cardiovascular diseases) occurs when the flow of blood to the heart muscle suddenly becomes blocked. 17.9 million dying from heart attacks a year. 
 
 •	Solve the binary classification problem of predicting whether someone has heart disease based on certain attributes. 
