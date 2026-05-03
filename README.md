@@ -72,6 +72,30 @@ also be different.
 • Results for NB, where like those results [3], even though the data is different,
 shows, NB performs well with different datasets.
 
+## Lessons Learnt
+• For Naïve bayes, explore looking at the prior. Changing the type of proper
+distribution mat improve model.
+• Use more new/ relevant data/ combine datasets to see outcome.
+• Don’t always have to optimize model, fits the training data too well.
+Future Work
+• Apply other ML techniques and consider joining techniques together.
+Gather more data and joint them.. Getter a wide range, which possible
+could increase accuracy.
+• Consider trying to create an imbalanced dataset.
+• Use another ML model and possibly combine two models to create an
+optimum one.
+
+
+
+
+
+Output NB-Testing LR-Testing
+Accuracy 90% 80%
+Precision 90% 87%
+Recall 89% 72%
+Specificity 90% 89%
+F1 Score 90% 78%
+
 
 
 
