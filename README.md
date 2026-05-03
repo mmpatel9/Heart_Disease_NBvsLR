@@ -98,5 +98,16 @@ F1 Score 90% 78%
 
 
 
+References
+[1] S. Bashir, Z. S. Khan, F. Hassan Khan, A. Anjum and K. Bashir, "Improving Heart Disease Prediction Using Feature Selection Approaches," 2019 16th International Bhurban Conference on Applied Sciences and Technology (IBCAST), 2019, pp. 619-623, doi:
+10.1109/IBCAST.2019.8667106.https://ieeexplore.ieee.org/abstract/document/8667106/citations#citations
+[2] DEEPTHI, GUNTURU, KORUPROLU NAGAVINITH, and KESUBOYINA HANUDEEP -. ‘HEART DISEASE PREDICTION USING MACHINE LEARNING ALGORITHMS’. UGC AUTONOMOUS,2021 2017, 35.
+[3] S. M. M. Hasan, M. A. Mamun, M. P. Uddin and M. A. Hossain, "Comparative Analysis of Classification Approaches for Heart Disease Prediction," 2018 International Conference on Computer, Communication, Chemical, Material and Electronic Engineering (IC4ME2), 2018, pp. 1-4, doi:
+10.1109/IC4ME2.2018.8465594. https://ieeexplore.ieee.org/abstract/document/8465594
+[4]https://reader.elsevier.com/reader/sd/pii/S2666285X22000449?token=893986DA8397ECF5C7E71C6C19995AA3D356EF43166EC975330DDE92B81D525D36498FD483189DCFEA13EDF577DD1A99&originRegion=eu-west-1&originCreation=20221222212336 – 80-20
+[5] Gao, L., Ding, Y. Disease prediction via Bayesian hyperparameter optimization and ensemble learning. BMC Res Notes 13, 205 (2020). https://doi.org/10.1186/s13104-020-05050-0 https://d-nb.info/1212702441/34 - (Why bayes optmizaton used , it shows to perform better in Grid search and random search )
+[6] Akkaya, Berke & Çolakoğlu, Nurdan. (2019). Comparison of Multi-class Classification Algorithms on Early Diagnosis of Heart Diseases.
+[7] https://www.statisticssolutions.com/free-resources/directory-of-statistical-analyses/what-is-logistic-regression/
+
 
 
